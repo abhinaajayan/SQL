@@ -57,6 +57,9 @@ CREATE TABLE employees (
     name VARCHAR(50),
     salary INT
 );
+
+--
+
 ### 2️⃣ Data Manipulation Language (DML)
 Used to manipulate data inside tables.
 
@@ -75,6 +78,8 @@ WHERE id = 1;
 DELETE FROM employees
 WHERE id = 1;
 
+--
+
 ### 3️⃣ Data Query Language (DQL)
 Used to retrieve data from tables.
 
@@ -84,6 +89,8 @@ Used to retrieve data from tables.
 
 ```sql
 SELECT * FROM employees;
+
+--
 
 ### 4️⃣ Data Control Language (DCL)
 Used to control access and permissions.
