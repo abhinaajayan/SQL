@@ -256,17 +256,20 @@ ORDER BY marks DESC;
 ```
 
 ## 🔹 Key Features of SQL
--Declarative language (focuses on what to do, not how)
--Easy to learn and use
--Efficient for large datasets
--Supports complex queries and joins
--Integrates well with Python, R, Power BI, and Tableau
+
+- Declarative language (focuses on **what** to do, not **how**)
+- Easy to learn and use
+- Efficient for handling large datasets
+- Supports complex queries and table joins
+- Integrates well with **Python, R, Power BI, and Tableau**
 
 ---
 
 ## 🔹 Why Learn SQL?
--Essential skill for Data Analysts, Data Scientists, and Backend Developers
--Used in data visualization tools like Power BI and Tableau
--Helps in handling real-world structured data
+
+- Essential skill for **Data Analysts, Data Scientists, and Backend Developers**
+- Widely used in **data visualization tools** like Power BI and Tableau
+- Helps in managing and analyzing real-world structured data
 
 ---
+
